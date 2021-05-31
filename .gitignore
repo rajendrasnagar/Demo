@@ -6,7 +6,7 @@
 .sfdx/
 .localdevserver/
 
-# local history
+# local history 
 .history/
 
 # LWC VSCode autocomplete

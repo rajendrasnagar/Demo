@@ -2,11 +2,11 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": false
+      "default": true
     },
     {
       "path": "DynamicLabels", 
-      "default": true
+      "default": false
     }
   ],
   "namespace": "",
